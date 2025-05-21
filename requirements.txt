@@ -1,0 +1,7 @@
+streamlit
+sounddevice
+torchaudio
+transformers
+torch
+opencv-python
+numpy
